@@ -39,8 +39,15 @@
         margin: 40px auto;
         border: 5px solid #00E8FF;
 
+
+        box-shadow: 5px 10px #888888;
+
+        box-shadow: 5px 10px #006B76;
+
+
         box-shadow: 5px 10px #006B76;
 
         box-shadow: 5px 10px #888888;
+
 
     }
